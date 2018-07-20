@@ -8,6 +8,13 @@
 	<string>Programmers_keyboard</string>
 	<key>CFBundleVersion</key>
 	<string></string>
+	<key>KLInfo_U.S. for programmers</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.programmers_keyboard.u.s.forprogrammers</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
 	<key>KLInfo_Русская для программистов</key>
 	<dict>
 		<key>TISInputSourceID</key>
