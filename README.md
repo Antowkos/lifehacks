@@ -17,15 +17,15 @@
 
 ### Мои workflow
    1. [Bear workflow](http://www.packal.org/workflow/bear) — упрощает работу с приложением [Bear](http://www.bear-writer.com/)
-    2. [Colors](http://www.packal.org/workflow/colors) — конвертация цветовых форматов `hex`, `rgb`, `NSColor`, `UIColor` и тд
-    3. [Copy Paths to Clipboard](https://github.com/franzheidl/copy-paths-to-clipboard) — позволяет скопировать путь текущей директории в буфер обмена с кучей разных параметров.
-    4. [Giphy](http://www.packal.org/workflow/giphy) — искать гифки еще никогда не было так просто.
-    5. [Github](https://github.com/gharlan/alfred-github-workflow) — невероятно восхитительный workflow для работы с гитхабом, всем разработчикам обязателен к использованию!
-    6. [Homebrew and Cask for Alfred](http://www.packal.org/workflow/homebrew-and-cask-alfred) — удобная работа с homebrew и cask. Есть возможность проверки обновлений для установленных приложений и тд.
-    7. [IP Address v1.2.0](https://github.com/zenorocha/alfred-workflows#ip-address-v120--download) — очень легко узнать свой IP адрес.
-    8. [NewFile](http://www.packal.org/workflow/newfile) — создание нового файла в текущей директории.
-    9. [Package Managers](http://www.packal.org/workflow/package-managers) — агрегатор по работе почти со всеми пакетными репозиториями (homebrew,  gradle, npm, pypi и тд)
-    10. [Searchio!](http://www.packal.org/workflow/searchio) — поиск в почти любом поисковике с автодополнениями прямо в Alfred
-    11. [Slackfred](http://www.packal.org/workflow/slackfred) — workflow для работы с slack, немножко тормозной, но в целом ничего.
-    12. [StackOverflow](http://www.packal.org/workflow/stackoverflow-search) — поиск по stackoverflow с автодополнениями.
-    13. [Translate](https://github.com/podgorniy/alfred-translate) — переводчик en-ru/ru-en 
+   2. [Colors](http://www.packal.org/workflow/colors) — конвертация цветовых форматов `hex`, `rgb`, `NSColor`, `UIColor` и тд
+   3. [Copy Paths to Clipboard](https://github.com/franzheidl/copy-paths-to-clipboard) — позволяет скопировать путь текущей директории в буфер обмена с кучей разных параметров.
+   4. [Giphy](http://www.packal.org/workflow/giphy) — искать гифки еще никогда не было так просто.
+   5. [Github](https://github.com/gharlan/alfred-github-workflow) — невероятно восхитительный workflow для работы с гитхабом, всем разработчикам обязателен к использованию!
+   6. [Homebrew and Cask for Alfred](http://www.packal.org/workflow/homebrew-and-cask-alfred) — удобная работа с homebrew и cask. Есть возможность проверки обновлений для установленных приложений и тд.
+   7. [IP Address v1.2.0](https://github.com/zenorocha/alfred-workflows#ip-address-v120--download) — очень легко узнать свой IP адрес.
+   8. [NewFile](http://www.packal.org/workflow/newfile) — создание нового файла в текущей директории.
+   9. [Package Managers](http://www.packal.org/workflow/package-managers) — агрегатор по работе почти со всеми пакетными репозиториями (homebrew,  gradle, npm, pypi и тд)
+   10. [Searchio!](http://www.packal.org/workflow/searchio) — поиск в почти любом поисковике с автодополнениями прямо в Alfred
+   11. [Slackfred](http://www.packal.org/workflow/slackfred) — workflow для работы с slack, немножко тормозной, но в целом ничего.
+   12. [StackOverflow](http://www.packal.org/workflow/stackoverflow-search) — поиск по stackoverflow с автодополнениями.
+   13. [Translate](https://github.com/podgorniy/alfred-translate) — переводчик en-ru/ru-en 
